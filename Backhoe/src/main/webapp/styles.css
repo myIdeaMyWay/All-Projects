@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body{
+	background-color:#eae5e5;
+}
+body div
+{
+	margin:0px;
+}
+nav h2
+{
+display:flex;
+	justify-content:left;	
+}
+.navB{
+	background-color:orange;
+	font-size:25px;
+	color:white;
+	display:flex;
+	justify-content:right;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-radius:2px;
+	text-decoration:none;
+}
+#lll h2
+{
+	color:red;
+	margin-top:0px;
+	
+}

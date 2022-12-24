@@ -1,0 +1,189 @@
+@charset "UTF-8";
+
+body
+{
+	margin:0;
+	background-image:url("https://c0.wallpaperflare.com/preview/946/377/129/indian-flag-tricolor-india-flag.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+h1{
+	color:red;
+	font-size:10px
+}
+nav{
+	background-color:orange;
+	font-size:25px;
+	color:white;
+	display:flex;
+	justify-content:right;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+nav a
+{
+	color:white;
+	padding-left:10px;
+	padding-right:10px;
+}
+nav a:hover
+{
+	color:black
+}
+.form-container
+{
+	background-color:#C6DEFF;
+	font-size:20px;
+	width:450px;
+	height:250px;
+	
+	display:flex;
+	justify-content:center;
+	margin-left:67%;
+	margin-top:7%;
+	margin-right:4px;
+	border-radius:10px;
+	padding-bottom:20px;
+	
+}
+.form-container input
+{
+	width:200px;
+	height:30px;
+	margin-left:7px;
+	border-radius:10px;
+	background-color:#ADDFFF;
+	color:black;
+}
+.form-container select
+{
+	width:200px;
+	height:30px;
+	margin-left:7px;
+	border-radius:10px;
+	background-color:#ADDFFF;
+	color:black;
+}
+.form-container button
+{
+	width:210px;
+	height:35px;
+	margin-left:7px;
+	border-radius:10px;
+	background-color:#ADDFFF;
+	color:black;
+}
+.form-container a
+{
+	
+	margin-left:70px;
+	text-align:center;
+	
+	color:black;
+}
+.form-container:hover
+{
+	color:black
+}
+.about
+{
+background-color:white;
+opacity:0.8;	
+justify-content:right;
+margin-bottom:100px;
+
+}
+.about p
+{
+	font-size:30px;
+	color:black;
+	padding:10px;
+	margin-top:20px;
+	
+	
+	
+	
+}
+.about div
+{
+	margin-left:65%;
+	
+}
+.about img
+{
+	width:300px;
+	height:300px;
+	margin-left:78%;
+	
+	
+	justify-content:right;
+}
+.form-cont
+{
+	background-color:#C6DEFF;
+	font-size:20px;
+	width:450px;
+	height:550px;
+	font-family: Arial, Helvetica, sans-serif;
+	display:flex;
+	justify-content:center;
+	margin-left:67%;
+	margin-top:5%;
+	margin-right:4px;
+	border-radius:10px;
+	padding-bottom:20px;
+}
+.form-cont input
+{
+	width:200px;
+	height:30px;
+	margin-left:3px;
+	border-radius:10px;
+	background-color:#ADDFFF;
+	color:black;
+}
+.form-cont button
+{
+	width:210px;
+	height:35px;
+	margin-left:5px;
+	border-radius:10px;
+	background-color:#ADDFFF;
+	color:black;
+}
+.form-cont textarea
+{
+	width:200px;
+	height:100px;
+	margin-left:5px;
+	border-radius:10px;
+	background-color:#ADDFFF;
+	color:black;
+}
+.font-cont lavel
+{
+	
+	margin-left:1px;
+	
+}
+
+.result
+{
+  background-color:white;
+font-size:30px;	
+justify-content:right;
+
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+}
+.result tr,th,td
+{
+	
+	display:flex;
+	height:100px;
+padding: 20px;
+vertical-align:middle;
+	
+	
+}
